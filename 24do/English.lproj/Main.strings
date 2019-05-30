@@ -1,0 +1,48 @@
+
+/* Class = "UITextField"; placeholder = "Add a task"; ObjectID = "2kt-qE-wfX"; */
+"2kt-qE-wfX.placeholder" = "Add a task";
+
+/* Class = "UILabel"; text = "Напоминалка"; ObjectID = "7gf-h7-q7I"; */
+"7gf-h7-q7I.text" = "Напоминалка";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "DV3-ae-XgG"; */
+"DV3-ae-XgG.text" = "time";
+
+/* Class = "UILabel"; text = "12:00 AM"; ObjectID = "Suo-ew-yHL"; */
+"Suo-ew-yHL.text" = "12:00 AM";
+
+/* Class = "UILabel"; text = "You must have really good memory!"; ObjectID = "Vjg-A8-ze8"; */
+"Vjg-A8-ze8.text" = "You must have really good memory!";
+
+/* Class = "UILabel"; text = "But if you want to set a reminder just tap below."; ObjectID = "Vr0-AK-TPQ"; */
+"Vr0-AK-TPQ.text" = "But if you want to set a reminder just tap below.";
+
+/* Class = "UIButton"; normalTitle = "Изменить"; ObjectID = "Xbd-Fg-oxn"; */
+"Xbd-Fg-oxn.normalTitle" = "Изменить";
+
+/* Class = "UIButton"; normalTitle = "Snooze"; ObjectID = "YTw-kI-jDL"; */
+"YTw-kI-jDL.normalTitle" = "Snooze";
+
+/* Class = "UILabel"; text = "No reminders to display"; ObjectID = "eyO-Hi-8PX"; */
+"eyO-Hi-8PX.text" = "No reminders to display";
+
+/* Class = "UILabel"; text = "Когда?"; ObjectID = "fIE-dC-Zh4"; */
+"fIE-dC-Zh4.text" = "Когда?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fbW-mM-nTX"; */
+"fbW-mM-nTX.text" = "Label";
+
+/* Class = "UILabel"; text = "12:00 AM"; ObjectID = "ok8-O4-dNn"; */
+"ok8-O4-dNn.text" = "12:00 AM";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "omW-Oa-W72"; */
+"omW-Oa-W72.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "vOg-0b-Hpf"; */
+"vOg-0b-Hpf.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xLi-MW-bUz"; */
+"xLi-MW-bUz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xuh-Jf-v3G"; */
+"xuh-Jf-v3G.text" = "Label";
